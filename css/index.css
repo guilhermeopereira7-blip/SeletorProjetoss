@@ -37,3 +37,7 @@ body{
     flex-direction: column;
     
 }
+
+.corPreto a:focus{
+    color: brown;
+}
